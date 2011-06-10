@@ -60,7 +60,7 @@
 				</TransformGroup>
 			</Button.RenderTransform>
 		</Button>
-		<ScrollViewer x:Name="Mano" Template="{DynamicResource ScrollViewer_My}" VerticalAlignment="Bottom" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Disabled" Height="176">
+		<ScrollViewer x:Name="Mano" Template="{DynamicResource ScrollViewer_My}" VerticalAlignment="Bottom" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Disabled" Height="258.4">
 			<StackPanel x:Name="StackPannel_Mano" Orientation="Horizontal">
 				<Button Content="Button" Style="{DynamicResource Carta_Pulsante}"/>
 				<Button Content="Button" Style="{DynamicResource Carta_Pulsante}"/>
